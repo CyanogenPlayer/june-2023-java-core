@@ -1,1 +1,1 @@
-"# june-2023-java-core" 
+# june-2023-java-core
